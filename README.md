@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SaroshSanwal
-- 👀 I’m interested in Frontend Development
+- 👀 I’m interested in MERN Stack Development
 - 🌱 I’m currently learning React js
 - 📫 You can contact me through myemail: saroshsanwal@gmail.com
 
